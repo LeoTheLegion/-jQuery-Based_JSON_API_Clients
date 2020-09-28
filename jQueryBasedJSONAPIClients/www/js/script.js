@@ -1,5 +1,5 @@
 
-var APIKEY = "04e7a12c82fa16d83d6fcf8ab5eac485";
+var APIKEY = "";
 var POSTERROOT = "http://image.tmdb.org/t/p/w300_and_h450_bestv2/";
 
 $(document).ready(function(){
